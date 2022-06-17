@@ -3,8 +3,8 @@ Je m'appelle Antoine COULON, je débute en programmation et souhaite devenir Dé
 Je cherche actuellement une formation en alternance et donc une entreprise d'accueil. 
 
 J'apprends...
-HTML / CSS / Javascript
-GitHub, versionning
+HTML / CSS / Javascript,
+GitHub, versionning,
 Gestion de projet
 
 Vous pouvez me joindre via:
