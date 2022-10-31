@@ -4,7 +4,7 @@ Je cherche actuellement une formation en alternance et donc une entreprise d'acc
 
 J'apprends...
 HTML / CSS / Javascript,
-GitHub, versionning,
+Git, GitHub, versionning,
 Gestion de projet
 
 Vous pouvez me joindre via:
