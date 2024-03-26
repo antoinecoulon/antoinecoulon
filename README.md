@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoinecoulon&label=Profile%20views&color=0e75b6&style=flat" alt="antoinecoulon" /> </p>
 
-- 🔭 I’m currently working on **The Odin Project courses**
+- 🔭 I’m currently working with **The Odin Project** & **freeCodeCamp**
 
 - 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **my first collaboration project**
 
-- 👨‍💻 All of my projects are available at [https://antoinecoulon.github.io/dev-website/](https://antoinecoulon.github.io/dev-website/)
+- 👨‍💻 All of my projects are available at IN PROGRESS
 
 - 📫 How to reach me **a.antoinecoulon@gmail.com**
 
-- ⚡ Fun fact **I want to write a book someday**
+- ⚡ Personal fact **I want to write a book someday**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
