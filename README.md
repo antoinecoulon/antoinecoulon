@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoinecoulon&label=Profile%20views&color=0e75b6&style=flat" alt="antoinecoulon" /> </p>
 
-- 🔭 I’m currently working with **The Odin Project** & **freeCodeCamp**
+- 🔭 I’m currently working with **The Odin Project**, a full curriculum and learning path & **freeCodeCamp**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React.js, php & Symfony**
 
-- 👯 I’m looking to collaborate on **my first collaboration project**
+- 👯 I’m looking to collaborate on **my first open source project**
 
 - 👨‍💻 All of my projects are available at IN PROGRESS
 
@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://dev.to/antoinecoulon_63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="antoinecoulon_63" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/antoine-coulon-65638882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoine-coulon-65638882" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/antoine-coulon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="antoine-coulon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
