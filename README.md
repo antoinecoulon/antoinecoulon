@@ -1,20 +1,3 @@
-<h1 align="center">Hi 👋, I'm Antoine COULON</h1>
-<h3 align="center">A (still learning) fullstack developer.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antoinecoulon&label=Profile%20views&color=0e75b6&style=flat" alt="antoinecoulon" /> </p>
-
-- 🔭 I’m currently working on [The Odin Project (full stack JS path)](https://www.theodinproject.com/)
-
-- 🌱 I’m currently learning **React.js, php & Symfony**
-
-- 👯 I’m looking to collaborate on **my first open source project**
-
-- 👨‍💻 All of my projects are available at [WEBSITE IN PROGRESS](WEBSITE IN PROGRESS)
-
-- 📝 I regularly write articles on [WEBSITE IN PROGRESS](WEBSITE IN PROGRESS)
-
-- 📫 How to reach me **a.antoinecoulon@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/antoine-coulon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoine-coulon" height="30" width="40" /></a>
